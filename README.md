@@ -1,1 +1,1 @@
-# python
+# derste işlenen python kodları
